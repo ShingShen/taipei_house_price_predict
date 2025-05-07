@@ -24,7 +24,7 @@ The dataset includes:
 
 ### District-wise Average Log Unit Price
 
-![Average Log Unit Price by District](figures/average_log_unit_price_by_town.png)
+![Average Log Unit Price by District](average_log_unit_price_by_town.png)
 
 This bar chart shows the mean `log_unit_price` for each district. Prices are generally higher in central districts like Da'an and Xinyi.
 
